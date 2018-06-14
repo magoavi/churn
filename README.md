@@ -8,6 +8,8 @@
 [![Packagist](https://img.shields.io/badge/license-GNU%20GPL-blue.svg)](#license)
 [![Packagist](https://img.shields.io/badge/author-avimago-green.svg)](https://github.com/magoavi)
 
+# ![alt text](https://raw.githubusercontent.com/magoavi/churn/master/churn_cover.png)
+
 > Compare different machine learning algorithms for predicting customer churn.
 
 #### Abstract
